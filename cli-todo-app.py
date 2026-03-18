@@ -1,4 +1,4 @@
-# cli-todo-app (Version 1)
+# cli-todo-app (Version 1: in-memory)
 
 tasks =[]
 
